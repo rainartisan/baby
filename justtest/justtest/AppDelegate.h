@@ -20,5 +20,5 @@
 
 //win 22222
 
-//15 --mac --bbbb
+//15  txt  bbbbbb
 @end
